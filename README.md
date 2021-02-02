@@ -15,6 +15,8 @@
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/nomadroom/JS">
 </a>
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/nomadroom/JS">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nomadroom/JS">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/nomadroom/JS">
 </p>
 
 Let's start with the definition of what [javascript] is.
