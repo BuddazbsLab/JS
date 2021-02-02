@@ -41,7 +41,7 @@ JavaScript can run on both web browsers and servers. A popular server-side envir
 
 ____
 
-Well, then. We learned a little about what JS is and then the material will be replenished as we master it😊
+Well, then. We learned a little about what JS is and then the material will be replenished as we master it!😊
 
 ____
 <p align="center">
