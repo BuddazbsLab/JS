@@ -44,6 +44,6 @@ ____
 Well, then. We learned a little about what JS is and then the material will be replenished as we master it😊
 
 ____
-<p align="center">
+<p align="center"> 
 	<img alt="JS banner" src="https://yuri-romanov.ru/images/blog/9.png">
 </p>
