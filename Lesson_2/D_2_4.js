@@ -7,54 +7,54 @@ function mathOperation(a) {
 	let x = "";
 	switch(a){
 		case 0:
-			x = 'Ноль';
-			break;
+			console.log('Zero - 0');
+			
 		case 1:
-			x = 'Один';
-			break;
+			console.log('One - 1');
+			
 		case 2:
-			x = 'Два';
-			break;
+			console.log('Two - 2');
+			
 		case 3:
-			x = 'Три';
-			break;
+			console.log('Three - 3');
+			
 		case 4:
-			x = 'Четыре';
-			break;
+			console.log('Four - 4');
+			
 		case 5:
-			x = 'Пять';
-			break;
+			console.log('Five - 5');
+			
 		case 6:
-			x = 'Шесть';
-			break;
+			console.log('Six - 6');
+			
 		case 7:
-			x = 'Семь';
-			break;
+			console.log('Seven - 7');
+			
 		case 8:
-			x = 'Восемь';
-			break;
+			console.log('Eight - 8');
+			
 		case 9:
-			x = 'Девять';
-			break;
+			console.log('Nine - 9');
+			
 		case 10:
-			x = 'Десять';
-			break;
+			console.log('Ten - 10');
+			
 		case 11:
-			x = 'Одиннадцать';
-			break;
+			console.log('Eleven - 11');
+			
 		case 12:
-			x = 'Двеннадцать';
-			break;
+			console.log('Twelve - 12');
+			
 		case 13:
-			x = 'Тринадцать';
-			break;
+			console.log('Thirteen - 13');
+			
 		case 14:
-			x = 'Четырнадцать';
-			break;
+			console.log('Fourteen - 14');
+			
 		case 15:
-			x = 'Пятьнадцать';
+			console.log('Fifteen - 15');
 			break;
 	}		
-	return ['Ноль', 'Один', 'Два', 'Три', 'Четыре', 'Пять', 'Шесть', 'Семь', 'Восемь', 'Девять', 'Десять', 'Одиннадцать', 'Двеннадцать', 'Тринадцать', 'Четырнадцать', 'Пятьнадцать'][a];
+	
 	}
 console.log(mathOperation(a));
