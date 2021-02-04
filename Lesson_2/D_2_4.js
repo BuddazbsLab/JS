@@ -4,7 +4,6 @@ let a = Math.floor(Math.random()*16 + 0);
 
 function mathOperation(a) {
 	// body...
-	let x = "";
 	switch(a){
 		case 0:
 			console.log('Zero - 0');
