@@ -44,6 +44,15 @@ ____
 Well, then. We learned a little about what JS is and then the material will be replenished as we master it😊
 
 ____
+Well, it was already mastered 3 lessons on JavaScript.
+the first classes were quite simple and we managed it. But already from the 3rd lesson it becomes more difficult. The actual lessons learned are below, and the homework itself is inside.
+
+1) The basics of the language JavaScript 🥳🥳🥳🥳🥳🥳
+2) Basic JavaScript Operators 😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️
+3) Loops, arrays, and data structures  😰😰😰😰😰😰😰
+
+
+
 <p align="center"> 
 	<img alt="JS banner" src="https://yuri-romanov.ru/images/blog/9.png">
 </p>
