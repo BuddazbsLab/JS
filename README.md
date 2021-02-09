@@ -2,7 +2,6 @@
   <br>
   <h1>💪My lesson on JS💪 </h1>
   <strong>In this branch, I will post my progress on JS🐱‍👤</strong>
-![download_01](https://user-images.githubusercontent.com/52652515/107411808-057aee00-6b20-11eb-9544-5c5c193f6872.gif)
 </div>
 <br>
 <p align="center">
