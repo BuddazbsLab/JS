@@ -50,8 +50,11 @@ the first classes were quite simple and we managed it. But already from the 3rd 
 1) The basics of the language JavaScript 🥳🥳🥳🥳🥳🥳
 2) Basic JavaScript Operators 😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️
 3) Loops, arrays, and data structures  😰😰😰😰😰😰😰
+____
 
+Further more difficult but more interesting
 
+____
 
 <p align="center"> 
 	<img alt="JS banner" src="https://yuri-romanov.ru/images/blog/9.png">
