@@ -3,14 +3,16 @@
 // десятки и сотни. Например, для числа 245 надо получить следующий объект: 
 // {‘единицы’: 5, ‘десятки’: 4, ‘сотни’: 2}. Если число превышает 999, необходимо 
 // выдать соответствующее сообщение с помощью console.log и вернуть пустой объект. 
-function Converter(num){
-  if (isNaN(num)){
+
+
+function Converter(num){  // Cоздаем функцию 
+  if (isNaN(num)){    // ставим проверку, если число NaN то выводим ошибку
     console.log('Error: the parameter is not a number');
-  } else if(num>999 || num<0){
-    console.log('Error: acceptable range 0-999');
-    var obj={};
-    return obj;
-  } else {
+  } else if(num>999 || num<0){  // ставим проверку, если число больше 999 или менеьше 0 то выводим ошибку
+    console.log('Error: acceptable range 0-999'); // вывод ошибки
+    var obj={};  // создаем пустой объект
+    return obj; 
+  } else {    // после успешных проверок выполняем следующее условие
     var digits=['units','dozens','hundreds'];
     var obj={};
     var i=0;
