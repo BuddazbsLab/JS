@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url(https://lh6.googleusercontent.com/proxy/aVbBskLAJcqtqRlN4XrtrHxthParhqs_9TDD9-v3SCyS4dXxN-ocIlXTxlPSNXtjKTIADsLo3JdH1WoYwOtZkwOLGvLrLuZhq2olGVuFqgTGlxzya5bI3vIbxrxzmegshXc=s0-d);
+}
+
+table {
+  border-spacing: 0;
+  border: 0;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+tr:not(:last-child) td:not(:first-child) {
+  border: 1px solid black;
+}
+
+td
+    {
+        font-size: 30px;
+    }
+
+.black {
+  width: 100px;
+  height: 100px;
+  background: black;
+}
+
+.white {
+  width: 100px;
+  height: 100px;
+  background: white;
+}
+
+.letter {
+  text-align: center;
+  font-size: 30px;
+}
