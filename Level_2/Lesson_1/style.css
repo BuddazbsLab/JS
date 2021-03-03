@@ -1,0 +1,119 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+} 
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+  display: block;
+}
+
+body {
+  font: 12px/18px Arial, sans-serif;
+  height: 100%;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+  background-color: #FFA07A;
+}
+
+/* Button
+-----------------------------------------------------------------------------*/
+.blum {
+  float: right;
+  box-shadow: 0px 1px 0px 0px #fff6af;
+  background: linear-gradient(to bottom, #ffec64 5%, #ffab23 100%);
+  background-color: #ffec64;
+  border-radius: 6px;
+  border: 1px solid #ffaa22;
+  display: inline-block;
+  cursor: pointer;
+  color: #333333;
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 12.9px 28px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #ffee66;
+}
+
+.blum:hover {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffab23), color-stop(1, #ffec64));
+  background: -moz-linear-gradient(top, #ffab23 5%, #ffec64 100%);
+  background: -webkit-linear-gradient(top, #ffab23 5%, #ffec64 100%);
+  background: -o-linear-gradient(top, #ffab23 5%, #ffec64 100%);
+  background: -ms-linear-gradient(top, #ffab23 5%, #ffec64 100%);
+  background: linear-gradient(to bottom, #ffab23 5%, #ffec64 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffab23', endColorstr='#ffec64', GradientType=0);
+  background-color: #ffab23;
+}
+
+.blum:active {
+  position: relative;
+  top: 1px;
+}
+
+/* Header
+-----------------------------------------------------------------------------*/
+.header {
+  height: 50px;
+  background: #2d3439;
+}
+
+/* Middle
+-----------------------------------------------------------------------------*/
+.content {
+  flex: 1 0 auto;
+}
+
+.goods-item {
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+max-width: 500px; /* Ограничение ширины */
+margin: auto;
+text-align: center;
+font-family: sans-serif;
+}
+
+h3 {
+  font-size: 50px;
+  color: #7c4dff;
+}
+
+p {
+  color: #d32f2f;
+  font-size: 30px;
+}
+
+.goods-item button {
+  display: inline-block;
+  text-decoration: none;
+  background-color: #fc6979;
+  color: #000000;
+  border: 2px solid #fc6979;
+  border-radius: 20px;
+  font-size: 22px;
+  padding: 1px 13px;
+  transition: all 0.8s ease;
+}
+
+.goods-item button:hover{
+    text-decoration: none;
+    background-color: #ff0505;
+    color: #ffeded;
+    border-color: #006089;
+}
+
+/* Footer
+-----------------------------------------------------------------------------*/
+.footer {
+  flex: 0 0 auto;
+  height: 100px;
+  background: #211e1f;
+  position: relative;
+}
