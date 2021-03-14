@@ -1,0 +1,26 @@
+[
+{
+	"id": "1",
+	"title": "Шорты",
+	"price": 5000,
+	"img": "content/1.png"
+},
+{
+	"id": "2",
+	"title": "Носки",
+	"price": 1500,
+	"img": "content/2.png"
+},
+{
+	"id": "3",
+	"title": "Жилет",
+	"price": 8000,
+	"img": "content/3.png"
+},
+{
+	"id": "4",
+	"title": "Обувь",
+	"price": 15000,
+	"img": "content/4.png"
+}
+]
